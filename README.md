@@ -1,7 +1,7 @@
 # unifatecie
 Banco digital unifatecie
 
-Estudo de Caso
+Estudo de Caso   /  ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/inaciomecena/unifatecie/Maven)
 
 Conta Corrente
 
